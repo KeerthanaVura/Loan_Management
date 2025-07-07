@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 import { BrowserRouter as Router, Switch } from 'react-router-dom';
 
 // Pages 
